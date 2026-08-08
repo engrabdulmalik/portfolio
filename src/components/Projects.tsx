@@ -1,5 +1,9 @@
 import { projects } from "@/data/resume";
 
+const sortedProjects = [...projects].sort(
+  (a, b) => Number(b.year || 0) - Number(a.year || 0)
+);
+
 export default function Projects() {
   return (
     <section id="work" className="relative border-t border-white/5 py-24">
@@ -12,7 +16,7 @@ export default function Projects() {
         </p>
 
         <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {projects.map((p) => (
+          {sortedProjects.map((p) => (
             <article
               key={p.name}
               className="glass group flex flex-col rounded-2xl p-6 transition-colors hover:border-accent/50"
