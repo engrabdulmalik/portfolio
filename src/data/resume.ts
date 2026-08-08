@@ -89,7 +89,7 @@ export const experience = [
 
 export const projects = [
   {
-    name: "Automation of Inventory through AI Robot",
+    name: "InventoryIQ",
     year: "2026",
     stack: ["Python", "Django"],
     description:
