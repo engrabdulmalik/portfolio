@@ -16,6 +16,7 @@ export const skills = [
   { name: "Flutter", level: 5 },
   { name: "Django REST Framework", level: 5 },
   { name: "Laravel", level: 4 },
+  { name: ".NET", level: 3 },
   { name: "PostgreSQL", level: 5 },
   { name: "HTML5 / CSS3", level: 5 },
   { name: "API Integration", level: 5 },
@@ -118,7 +119,7 @@ export const projects = [
   {
     name: "School Management System",
     year: "",
-    stack: ["Django", "React JS"],
+    stack: [".NET"],
     description:
       "In-development platform streamlining school administration workflows end to end.",
   },
