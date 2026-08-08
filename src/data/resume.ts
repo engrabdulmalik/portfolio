@@ -172,6 +172,10 @@ export const certifications = [
   { name: "Cloud Infrastructure 2019 Architect Professional", issuer: "Oracle", date: "2020" },
   { name: "Cloud Infrastructure Foundations 2020 Associate", issuer: "Oracle", date: "2020" },
   { name: "Autonomous Database Cloud 2019 Certified Specialist", issuer: "Oracle", date: "2020" },
+  { name: "Blazor for Front-End Development", issuer: "Microsoft", date: "2025" },
+  { name: "Foundations of Coding: Full-Stack", issuer: "Microsoft", date: "2025" },
+  { name: "Introduction to Programming With C#", issuer: "Microsoft", date: "2025" },
+  { name: "Back-End Development with .NET", issuer: "Microsoft", date: "2025" },
 ];
 
 export const publications = [
