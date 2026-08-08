@@ -103,14 +103,14 @@ export const projects = [
       "Collaborated to design and ship an AI-powered solution under competitive, time-constrained hackathon conditions.",
   },
   {
-    name: "TechSamurai Innovations Web App",
+    name: "TechSamurai Innovations",
     year: "2024",
     stack: ["React", "Django"],
     description:
       "Corporate website and internal admin dashboard for managing client services, teams, and project milestones, with real-time data integration.",
   },
   {
-    name: "Alpha Solution Training Institute",
+    name: "Alpha Solutions",
     year: "2023",
     stack: ["Django", "React JS"],
     description:
