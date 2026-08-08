@@ -111,28 +111,28 @@ export const projects = [
   },
   {
     name: "Alpha Solution Training Institute",
-    year: "",
+    year: "2023",
     stack: ["Django", "React JS"],
     description:
       "Course management and student enrollment platform for a training institute.",
   },
   {
     name: "School Management System",
-    year: "",
+    year: "2026",
     stack: [".NET"],
     description:
       "In-development platform streamlining school administration workflows end to end.",
   },
   {
     name: "e-Commerce Web Application",
-    year: "",
+    year: "2022",
     stack: ["Laravel"],
     description:
       "Online shopping platform with secure user authentication and order management.",
   },
   {
     name: "Patient-Doctor Web Application",
-    year: "",
+    year: "2022",
     stack: ["Laravel"],
     description:
       "Appointment scheduling and medical records management platform.",
