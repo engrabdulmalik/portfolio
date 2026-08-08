@@ -117,7 +117,7 @@ export const projects = [
       "Course management and student enrollment platform for a training institute.",
   },
   {
-    name: "School Management System",
+    name: "SchoolHub",
     year: "2026",
     stack: [".NET"],
     description:
@@ -131,7 +131,7 @@ export const projects = [
       "Online shopping platform with secure user authentication and order management.",
   },
   {
-    name: "Patient-Doctor Web Application",
+    name: "HealthBridge",
     year: "2022",
     stack: ["Laravel"],
     description:
