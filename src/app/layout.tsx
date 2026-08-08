@@ -15,19 +15,19 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Abdul Malik — Full Stack Engineer",
   description:
-    "Abdul Malik is a full stack engineer building web and mobile products with React, React Native, Flutter, Django and Laravel. Available for freelance and contract work.",
+    "Abdul Malik is a full stack engineer building web and mobile products with React, React Native, Flutter, Django and .NET. Available for freelance and contract work.",
   keywords: [
     "Abdul Malik",
     "Full Stack Engineer",
     "React Developer",
     "Django Developer",
-    "Laravel Developer",
+    ".NET Developer",
     "Lahore Pakistan",
   ],
   openGraph: {
     title: "Abdul Malik — Full Stack Engineer",
     description:
-      "Building fast, reliable web & mobile products — from React front ends to Django and Laravel back ends.",
+      "Building fast, reliable web & mobile products — from React front ends to Django and .NET back ends.",
     type: "website",
   },
 };
