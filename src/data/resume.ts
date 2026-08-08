@@ -166,6 +166,12 @@ export const certifications = [
   { name: "Foundations of UX Design", issuer: "Google", date: "August 2023" },
   { name: "Principles of UX/UI Design", issuer: "Meta", date: "April 2023" },
   { name: "Fundamentals of Red Hat Enterprise Linux", issuer: "Red Hat", date: "May 2023" },
+  { name: "Cloud Infrastructure 2019 Architect Associate", issuer: "Oracle", date: "2020" },
+  { name: "Cloud Infrastructure 2019 Cloud Operations Associate", issuer: "Oracle", date: "2020" },
+  { name: "Cloud Infrastructure Developer 2020 Associate", issuer: "Oracle", date: "2020" },
+  { name: "Cloud Infrastructure 2019 Architect Professional", issuer: "Oracle", date: "2020" },
+  { name: "Cloud Infrastructure Foundations 2020 Associate", issuer: "Oracle", date: "2020" },
+  { name: "Autonomous Database Cloud 2019 Certified Specialist", issuer: "Oracle", date: "2020" },
 ];
 
 export const publications = [
