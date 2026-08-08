@@ -1,7 +1,7 @@
 export const profile = {
   name: "Abdul Malik",
   title: "Full Stack Engineer",
-  tagline: "Building fast, reliable web & mobile products — from React front ends to Django and Laravel back ends.",
+  tagline: "Building fast, reliable web & mobile products — from React front ends to Django and .NET back ends.",
   location: "Lahore, Pakistan",
   email: "engrabdulmalik@outlook.com",
   phone: "+92-300-4391997",
