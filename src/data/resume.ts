@@ -124,7 +124,7 @@ export const projects = [
       "In-development platform streamlining school administration workflows end to end.",
   },
   {
-    name: "e-Commerce Web Application",
+    name: "SWANZ",
     year: "2022",
     stack: ["Laravel"],
     description:
